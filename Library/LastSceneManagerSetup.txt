@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Angry Birds Style/_Scenes/angry.unity
+  isLoaded: 1
+  isActive: 1
